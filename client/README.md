@@ -1,5 +1,9 @@
 # vue-role-based-authorization-example
 
-Vue.js - Role Based Authorization Tutorial & Example
+This fronted was built with vue.js
 
-To see a demo and further details go to http://jasonwatmore.com/post/2019/03/08/vuejs-role-based-authorization-tutorial-with-example
+# Installation
+Download or clone the project
+run npm install to install dependencies
+run npm start to start the project
+check out the ui on http://localhost:8081
