@@ -3,13 +3,15 @@ This project was built using express.js.
 
 ## It makes use of role based authentication.
 
-## To Insall, clone or download the project
+## To Install, clone or download the project
 
 ## run npm install to install dependencies for the project
 
 ## run npm start to start the project.
 
 ## run the back-end with http://localhost:3000
+
+## the backend uses mongodb, ensure to install https://www.mongodb.com/
 
 The apis can be tested using postman with the following endpoints
 
@@ -27,4 +29,4 @@ The apis can be tested using postman with the following endpoints
 
 
 
-## The frontend is powered by Vue.js. Kindly check client/readme for informatipn on how to run the frontend
+## The frontend is powered by Vue.js. Kindly check client/readme for information on how to run the frontend
